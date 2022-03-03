@@ -1,0 +1,8 @@
+E:\bridgelabz\N_unit_testing_2\bin\Debug\N_unit_testing_2.exe.config
+E:\bridgelabz\N_unit_testing_2\bin\Debug\N_unit_testing_2.exe
+E:\bridgelabz\N_unit_testing_2\bin\Debug\N_unit_testing_2.pdb
+E:\bridgelabz\N_unit_testing_2\obj\Debug\N_unit_testing_2.csproj.AssemblyReference.cache
+E:\bridgelabz\N_unit_testing_2\obj\Debug\N_unit_testing_2.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\N_unit_testing_2\obj\Debug\N_unit_testing_2.csproj.CoreCompileInputs.cache
+E:\bridgelabz\N_unit_testing_2\obj\Debug\N_unit_testing_2.exe
+E:\bridgelabz\N_unit_testing_2\obj\Debug\N_unit_testing_2.pdb
